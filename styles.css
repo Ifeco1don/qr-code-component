@@ -33,6 +33,7 @@ body {
   padding: 1rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 1rem;
+  box-shadow: 0 0 5px 0 hsl(211, 22%, 75%);
 }
 
 .image-div {
