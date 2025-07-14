@@ -49,5 +49,5 @@ As I continue learning frontend development, I plan to focus more on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ifeco1don)
-- Twitter - [@yourusername](https://www.twitter.com/Ifeco1don)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Ifeco1don)
+- Twitter - (https://www.twitter.com/Ifeco1don)
